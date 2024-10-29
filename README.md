@@ -44,8 +44,7 @@ A cloud based remote android managment suite, powered by NodeJS
 
 6. Run server `node index.js`
 
-7. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost and to make a client APP you can use [PORTMAP](https://portmap.io) to access APP on wide area network , check below for demo to setup tyrantrat with PORTMAP.)
-
+7. In your browser navigate to `http://<SERVER IP>:22533` & Login with default username and password ( By default server will run on localhost )
 ### default PASSWORD - admin
 
 
