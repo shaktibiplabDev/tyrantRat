@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/shaktibiplabDev/tyrantrat/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/shaktibiplabDev/tyrantrat/server/assets/webpublic/logo.png" height="60"><br>
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
